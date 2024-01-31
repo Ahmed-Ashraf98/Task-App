@@ -1,0 +1,52 @@
+﻿{
+   "CodeGenerationMode": 0,
+   "ContextClassName": "FlutterbookContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": "Data",
+   "OutputPath": "Models",
+   "ProceduresReturnList": false,
+   "ProjectRootNamespace": "FBWeb",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[ContactTable]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EventTable]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[NoteTable]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TaskTable]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[User]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "DESKTOP-UNTFTFG.FlutterBook",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseNoConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSpatial": false
+}
